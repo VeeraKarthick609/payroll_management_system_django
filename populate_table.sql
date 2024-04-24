@@ -12,7 +12,7 @@ insert into m_address (address_id,building_details,road,landmark,city,state_id,c
 insert into m_address (address_id,building_details,road,landmark,city,state_id,country) values(105, 'Buil-X', 'Nano Road', 'Near MaxStore', 'Bhopal', 'MP', 'India');
 insert into m_address (address_id,building_details,road,landmark,city,state_id,country) values(106, 'Office Buil','Nicco Park','Near SaltLake','Kolkata','WB','India');
 
-insert into m_company (company_id,company_name,address_id) values(01, 'InfoBliss Capital',101);
+insert into m_company (company_id,company_name,address_id) values(01, 'VIT',101);
 insert into m_company (company_id,company_name,address_id) values(02, 'InfoBliss Cloud Solutions',103);
 insert into m_company (company_id,company_name,address_id) values(03, 'InfoBliss Aegis',104);
 
